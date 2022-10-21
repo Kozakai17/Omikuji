@@ -1,4 +1,4 @@
-# 【Omikuji】　DMM WEBCAMPコンテンツ「HTML/CSSを学ぼう」
+# 【Omikuji】DMM WEBCAMPコンテンツ「HTML/CSSを学ぼう」
 DMM WEBCAMP　：　研修課題
 
 ##概要
